@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Algorithms\\Algorithms\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA70A25-73E0-4647-B33C-0EE3956BF1D7}|Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439).vcxproj|D:\\Algorithms\\Algorithms\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DA70A25-73E0-4647-B33C-0EE3956BF1D7}|Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439).vcxproj|solutionrelative:Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439).cpp",
+              "DocumentMoniker": "D:\\Algorithms\\Algorithms\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439).cpp",
+              "RelativeDocumentMoniker": "Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439).cpp",
+              "ToolTip": "D:\\Algorithms\\Algorithms\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439).cpp",
+              "RelativeToolTip": "Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439)\\Depth-First Search(\u0420\u0435\u043A\u0443\u0440\u0441\u0438\u0432\u043D\u044B\u0439).cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T20:35:15.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
